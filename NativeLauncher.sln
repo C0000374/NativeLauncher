@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NativeLauncher", "NativeLauncher.vcxproj", "{E85CD761-7E94-4703-9D36-F47AAABFC035}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestNative", "TestNative\TestNative.vcxproj", "{11B83BFA-771B-4BD9-9BDB-2E79C2EAACB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E85CD761-7E94-4703-9D36-F47AAABFC035}.Release|x86.ActiveCfg = Release|Win32
+		{E85CD761-7E94-4703-9D36-F47AAABFC035}.Release|x86.Build.0 = Release|Win32
+		{11B83BFA-771B-4BD9-9BDB-2E79C2EAACB5}.Release|x86.ActiveCfg = Release|Win32
+		{11B83BFA-771B-4BD9-9BDB-2E79C2EAACB5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1AD36D2-1933-480A-9150-F34235F2BC39}
+	EndGlobalSection
+EndGlobal
